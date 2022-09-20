@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Ethan Hulse</h1>
 <h3 align="center">I'm a passionate developer and enthusiast from Idaho/Colorado</h3>
 
-- 🔭 I’m currently working my **Resume**
+- 🔭 I’m currently working on my **Portfolio Website**
 
-- 🌱 I’m currently learning **C# .NET, MongoDB**
+- 🌱 I’m currently learning **.NET and MongoDB**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Pick my brain about **C++ and Python**
 
 - 📫 Reach out to me at **ethanhulse.work@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Stuff I know:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ethan-h-351326113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ethan-hulse" height="30" width="40" /></a>
 </p>
