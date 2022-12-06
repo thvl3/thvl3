@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Ethan Hulse</h1>
 <h3 align="center">I'm a passionate developer and enthusiast from Idaho/Colorado</h3>
 
-- 🔭 I’m currently working on my **Portfolio Website**
+- 🔭 I’m currently working on **A Rust based graphics library**
 
-- 🌱 I’m currently learning **.NET and MongoDB**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Pick my brain about **C++ and Python**
+- 💬 Pick my brain about **C++, C#, and Python**
 
 - 📫 Reach out to me at **ethanhulse.work@gmail.com**
 
