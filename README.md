@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi , I'm Ethan Hulse</h1>
-<h3 align="center">I'm a passionate developer and enthusiast from Idaho/Colorado</h3>
+<h3 align="center">I'm a passionate developer and enthusiast from Idaho/Utah/Colorado</h3>
 
 - 🔭 I’m currently working on **A 2D platformer built in Unity as well as a modification library/math API for the game Factorio**
 
