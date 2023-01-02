@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **A 2D platformer built in Unity as well as a modification library/math API for the game Factorio**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **TensorFlow for Python**
 
 - 💬 Pick my brain about **C++, C#, and Python**
 
