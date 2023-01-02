@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Pick my brain about **C++, C#, and Python**
 
-- 📫 Reach out to me at **ethanhulse.work@gmail.com** or on Linkedin  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="ethan-h-351326113" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ethan-h-351326113?trk=profile-badge">My Linkedin: Ethan H.</a></div>
+- 📫 Reach out to me at **ethanhulse.work@gmail.com** or on Linkedin
 
 
 <h3 align="left">Find me at:</h3>
