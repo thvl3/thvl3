@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Ethan</h1>
 <h3 align="center">I'm a passionate developer and enthusiast from Idaho/Utah/Colorado</h3>
 
-- 🔭 I’m currently working on **A 2D platformer built in Unity as well as a modification library/math API for the game Factorio**
+- 🔭 I’m currently working on HTB Academy Pentesting Paths
 
-- 🌱 I’m currently learning **Rust** and **TensorFlow for Python**
+- 🌱 I’m currently learning **Network Protocols**
 
-- 💬 Pick my brain about **C++, C#, and Python**
+- 💬 Pick my brain about **C++, C#, Bash and Python**
 
 - 📫 Reach out to me at **ethanhulse.work@gmail.com** or on Linkedin
 
