@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HTB Academy Pentesting Paths
 
-- 🌱 I’m currently learning **Network Protocols**
+- 🌱 I’m currently learning **Web App Pentesting**
 
-- 💬 Pick my brain about **C++, C#, Bash and Python**
+- 💬 Pick my brain about **Go and ASM**
 
 - 📫 Reach out to me at **ethanhulse.work@gmail.com** or on Linkedin
 
